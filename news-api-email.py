@@ -3,11 +3,11 @@ from send_email import send_email
 
 topic = "tesla"
 
-api_key = "83eb3850927e41d9b49f340c8f21287b"
+api_key = "Will be found in the ReadMe"
 url = "https://newsapi.org/v2/everything?" \
       f"q={topic}&" \
       "sortBy=publishedAt&" \
-      "apiKey=83eb3850927e41d9b49f340c8f21287b&" \
+      "apikey= Will be found in the ReadMe&" \
       "language=en"
 
 # Make a request
